@@ -1,4 +1,6 @@
 # Central-Limit-Theorem-in-Performance-Metrics
+This is a project authored by Fabian Juarez and Surya Sama for the course Machine Learning for Social Sciences in NYU.
+
 We want to research if the central limit theorem applies to the different performance metrics used across a variety of machine learning algorithms.
 
 Notebook 1 includes the analysis in classification algorythms and Notebook 2 on regression problems.
